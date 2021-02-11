@@ -69,12 +69,12 @@ print("Round a number to a given precision in decimal digits:", m)
 rose = 5000
 sunflower = 4000
 tulip = 7000
-n_rose = 18
-n_sunflower = 8
-n_tulip = 21
+n_roses = 18
+n_sunflowers = 8
+n_tulips = 21
 rate = 0.1
 
-cost = (rose*n_rose + sunflower*n_sunflower + tulip*n_tulip) * (1 - rate)
+cost = (rose*n_roses + sunflower*n_sunflowers + tulip*n_tulips) * (1 - rate)
 print("the cost i should pay is", cost)
 
 string1 = "pine"
