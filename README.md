@@ -6,14 +6,15 @@ Essential programming for Linguistics aims to explore Python for purpose of anal
 |---|---|
 |  1  |  What is programming?  |
 |  2  |  numbers and strings  |
-|  3  |  list & tuple  |
-|  4  |  dictionary & set  |
-|  5  |  conditional statement  |
-|  6  |  loops  |
-|  7  |  function  |
-|  8  |  OOP  |
-|  9  |  class  |
-|  10  |  inheritance |
-|  11  |  exception handling  |
-|  12  |  data structures  |
-|  13  |  algorithm  |
+|  3  |  string formatting  |
+|  4  |  list & tuple  |
+|  5  |  dictionary & set  |
+|  6  |  conditional statement  |
+|  7  |  loops  |
+|  8  |  function  |
+|  9  |  OOP  |
+|  10  |  class  |
+|  11  |  inheritance |
+|  12  |  exception handling  |
+|  13  |  data structures  |
+|  14  |  algorithm  |
